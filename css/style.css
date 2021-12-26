@@ -1,21 +1,19 @@
-<style>
-  h1 {
-    font-family:Trebuchet MS;
+h1 {
+  font-family:Trebuchet MS;
+}
+h3 {
+  font-family:Trebuchet MS;
+}
+p {font-family:Trebuchet MS;}
+li {font-family:Trebuchet MS;}
+td {font-family:Trebuchet MS;}
+span {
+  font-family: Comic Sans MS;
+  font-size: smaller;
+}
+body {background-color: snow;}
+hr {
+  border-style: double none none;
+  border-width: 3px;
+  color: grey;
   }
-  h3 {
-    font-family:Trebuchet MS;
-  }
-  p {font-family:Trebuchet MS;}
-  li {font-family:Trebuchet MS;}
-  td {font-family:Trebuchet MS;}
-  span {
-    font-family: Comic Sans MS;
-    font-size: smaller;
-  }
-  body {background-color: snow;}
-  hr {
-    border-style: double none none;
-    border-width: 3px;
-    color: grey;
-    }
-</style>
