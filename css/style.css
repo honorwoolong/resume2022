@@ -4,6 +4,7 @@ h1 {
 
 h3 {
   font-family:Trebuchet MS;
+  margin-bottom: 0;
 }
 
 p { font-family:Trebuchet MS; }
@@ -16,6 +17,7 @@ span {
   font-family: Comic Sans MS;
   font-size: smaller;
   color: grey;
+  padding-left: 10px;
 }
 
 body {background-color: snow;}
@@ -24,8 +26,26 @@ hr {
   border-style: double none none;
   border-width: 3px;
   color: grey;
+  margin: 0;
   }
 
-.hashtag { font-family:courier; }
+ul {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
 
-.star { color: gold; }
+.hashtag {
+  font-family:courier;
+  margin: 0;
+  color: #7C99AC;
+}
+
+.star {
+  color: gold;
+  padding-right: 20px;
+}
+
+.position {
+  margin-bottom: 0;
+  font-family:Trebuchet MS;
+}
