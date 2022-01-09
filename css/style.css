@@ -1,3 +1,12 @@
+a {
+  text-decoration: none;
+  color: #35858B;
+}
+
+a:hover {
+  color: #A3E4DB;
+}
+
 h1 {
   font-family:Trebuchet MS;
 }
@@ -37,7 +46,7 @@ ul {
 .hashtag {
   font-family:courier;
   margin: 0;
-  color: #7C99AC;
+  color: #92A9BD;
 }
 
 .star {
